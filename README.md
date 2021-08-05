@@ -1,1 +1,3 @@
-# How-Weather-affects-Restaurant-Ratings
+# Data-Architect-Data-Warehouse-Weather
+
+Udacity Nanodegree Data Architect
